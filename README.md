@@ -1,5 +1,5 @@
 # bits-sms-project
-_BITS Student Mangement System application with CRUD operations developed in Django and React Js_
+Student Mangement System application with CRUD operations developed in Django and React Js_
 
 ## Requirements
 Make sure you have python and Node js installed on your system:
