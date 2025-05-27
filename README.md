@@ -1,4 +1,4 @@
-# studentmanagementsystem-project
+# Student Management System-project
 Student Mangement System application with CRUD operations developed in Django and React Js_
 
 ## Requirements
