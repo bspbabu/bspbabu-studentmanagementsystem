@@ -52,7 +52,7 @@ Make sure you have python and Node js installed on your system:
 ## Setup Frontend
 - Open a new terminal and navigate to frontend directory
   ```sh
-   cd smwa-project/frontend
+   cd studentmanagementsystem/frontend
     ```
 - Install frontend libraries using npm
   ```sh
