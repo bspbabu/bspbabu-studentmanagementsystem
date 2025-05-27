@@ -11,7 +11,7 @@ Make sure you have python and Node js installed on your system:
 
 - Clone the repository in a local folder
     ```sh
-    git clone https://github.com/loki-geek/bits-sms.git
+    git clone https://github.com/bspbabu/bspbabu-studentmanagementsystem.git
     ```
 - Open terminal and verify python version
   ```sh
@@ -25,7 +25,7 @@ Make sure you have python and Node js installed on your system:
 ## Setup Backend
 - Nvaigate to cloned project directory
   ```sh
-    cd smwa-project
+    cd studentmanagementsystem
     ```
 - Create a python virtual environment for backend
   ```sh
